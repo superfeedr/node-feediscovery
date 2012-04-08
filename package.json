@@ -1,0 +1,15 @@
+{
+  "author": "Julien Genestoux <julien@superfeedr.com> (http://ouvre-boite.com)",
+  "name": "feediscovery",
+  "description": "A wrapper around http://feediscovery.appspot.com/",
+  "version": "0.0.0",
+  "homepage": "http://feediscovery.appspot.com/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:superfeedr/node-feediscovery.git"
+  },
+  "main": "feediscovery.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
