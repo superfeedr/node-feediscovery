@@ -2,6 +2,10 @@
 
 A wrapper around Feediscovery.
 
+## Install:
+
+`npm install feediscovery`
+
 ## Usage:
 
 ```javascript
