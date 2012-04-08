@@ -1,6 +1,6 @@
 # Feediscovery
 
-A wrapper around Feediscovery.
+A wrapper around [Feediscovery](http://feediscovery.appspot.com/).
 
 ## Install:
 
