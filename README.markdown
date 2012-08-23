@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/superfeedr/node-feediscovery.png)](http://travis-ci.org/superfeedr/node-feediscovery)
 # Feediscovery
 
 A wrapper around [Feediscovery](http://feediscovery.appspot.com/).
